@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #FFCBA5;
+}
+h1 {text-align: center;}
+nav a {text-decoration: none;
+      color: white;
+      font-size: 200%;
+      width: 20% 0% 0%;
+      padding: 10% 0% 0%;}
+nav { text-align: center;
+    background-color: black;}
+a {text-decoration: none;
+  color: black;}
+footer {margin-top: 30%;
+       text-align: right;}
+footer a {font-size: 100%;
+         color:black;}
+footer p {text-align: right;}
+p {text-align: center;}
+ol {text-align: left;}
+.work {text-align: left;}
+.mid {text-align: center;}
